@@ -1,0 +1,446 @@
+/* Hero-Section Start */
+@media(min-width: 320px) and (max-width: 991px){
+    #hero-section .hello h2{
+    font-family: "Poppins", sans-serif;
+    font-size: 15px;
+    }
+    #hero-section .hero-details h1{
+    font-family: "PT Sans", sans-serif;
+    font-size: 34px;
+}
+#hero-section .hero-details p{
+    font-family: "Poppins", sans-serif;
+    font-size: 15px;
+    padding-bottom: 22px;
+}
+#hero-section{
+    margin: 37px 0 88px;
+}
+#hero-section .social-cart{
+    margin-bottom: 40px;
+}
+#hero-section .button a{
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-size: 10px;
+    padding: 9px 20px;
+}
+#hero-section .button a:nth-child(1){
+    margin-right: 12px;
+}
+}
+/* Hero-Section End */
+/* About-Me-Section Start*/
+@media(min-width: 320px) and (max-width: 991px){
+#about-me .about-me-image{
+     margin-left: auto;
+     width: fit-content;
+}
+#about-me .about-me-details h2{
+    font-family: "PT Sans", sans-serif;
+    font-size: 24px;;
+} 
+#about-me .about-me-details p{
+    font-family: "Poppins", sans-serif;
+    font-size: 15px;
+}
+#about-me .about-me-details a{
+    padding: 11px 28px;
+    font-size: 14px;
+    border-radius: 15px;
+}
+#about-me{
+    padding: 33px 17px 0;
+}
+#about-me .about-me-details img{
+    display: none;
+}
+#about-me{
+    margin-bottom: 75px;
+}
+}
+/* About-Me-Section End*/
+/* Why-cart-Section Start*/
+@media(min-width: 320px) and (max-width: 991px){
+#why-choose .why-cart{
+    display: flex;
+    gap: 16px;
+    padding: 26px;
+}
+#why-choose .why-cart-details h3{
+    font-family: "Poppins", sans-serif;
+    font-size: 14px;
+    padding-bottom: 3px;
+    text-align: left;
+    padding-top: 0;
+}
+#why-choose .why-cart-details p{
+    font-family: "Poppins", sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 190%;
+    color: #7a7a7a;
+    text-align: left;
+}
+#why-choose{
+    margin-bottom: 85px;
+}
+}
+/* Why-cart-Section End*/
+/* Branding-Section start*/
+@media(min-width: 320px) and (max-width: 991px){
+  #branding .branding-section{
+    padding: 27px 31px 0;
+} 
+ #branding .branding-details h2{
+    font-family: "PT Sans", sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+    color: #353535;
+    padding-bottom: 17px;
+}
+ #branding .branding-details a{
+    font-family: "Poppins", sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    color: #353535;
+    border: none;
+    padding: 0;
+}
+#branding .branding-details p{
+    font-family: "Poppins", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    color: #353535;
+    line-height: 180%;
+    padding-bottom: 23px;
+}
+#branding .branding-image img{
+    max-width: 100%;
+    padding-bottom: 20px;
+}
+#branding{
+    margin-bottom: 80px;
+}
+}
+/* Branding-Section End*/
+/* What-do section Start here*/
+@media(min-width: 320px) and (max-width: 991px){
+  #what-do .what-heading h2{
+    font-family: "PT Sans", sans-serif;
+    font-size: 24px;
+    text-align: left;
+}
+#what-do .what-heading p{
+    font-family: "Poppins", sans-serif;
+    font-size: 15px;
+    text-align: left;
+    padding-bottom: 24px;
+}
+#what-do .what-heading ul li h3{
+    font-family: "PT Sans", sans-serif;
+    font-size: 24px;
+    padding-bottom: 3px;
+    text-align: left;
+}
+#what-do .what-heading ul li span{
+   font-family: "Poppins", sans-serif;
+   font-size: 10px;
+   font-weight: 500;
+   text-align: left;
+}
+#what-do .what-heading ul li:nth-child(1){
+    margin: 0;
+}
+#what-do .what-heading ul{
+    margin-bottom: 38px;
+}
+#what-do{
+    margin-bottom: 64px;
+}
+#what-do .banner-details h4{
+    font-family: "Poppins", sans-serif;
+    font-size: 15px;
+}
+#what-do .banner-details span{
+    font-family: "Poppins", sans-serif;
+    font-size: 12px;
+}
+#what-do .banner-do{
+    padding: 16px 26px;
+}
+}
+/* What-do section Start End*/
+/* my-experience section Start here*/
+@media(min-width: 320px) and (max-width: 991px){
+#my-experience{
+   background-color: #FBFBFB;
+   padding: 32px 16px;
+}
+#my-experience h2{
+    font-family: "PT Sans", sans-serif;
+    font-size: 24px;
+    padding-bottom: 50px;
+    text-align: center;
+}
+#my-experience .experience-heading h3{
+    font-family: "Poppins", sans-serif;
+    font-size: 15px;
+    padding-bottom: 6px;
+} 
+#my-experience .experience-heading p{
+    font-family: "Poppins", sans-serif;
+    font-size: 12px;
+}
+#my-experience .experience-details h3{
+    font-family: "Poppins", sans-serif;
+    font-size: 15px;
+    padding-bottom: 16px;
+} 
+#my-experience .experience-details p{
+    font-family: "Poppins", sans-serif;
+    font-size: 12px;
+    line-height: 190%;
+}
+#my-experience .experience-details{
+    margin-bottom: 20px;
+}
+#my-experience{
+    margin-bottom: 38px;
+}
+}
+/* my-experience section Start End*/
+/*  Expart-area section start here*/
+@media(min-width: 320px) and (max-width: 991px){
+#expart-area .expart-details h2{
+   font-family: "PT Sans", sans-serif;
+   font-size: 24px;
+   padding-bottom: 26px;  
+}
+#expart-area .expart-details p{
+   font-family: "Poppins", sans-serif;
+   font-size: 15px;
+   padding-bottom: 48px;  
+}
+#expart-area .button{
+    display: none;
+}
+#expart-area .expart-bar ul li a{
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    padding: 14px 50px;
+    border-radius: 15px;
+}
+#expart-area .progress-bar,.progress{
+    height: 5px;
+}
+#expart-area .progress-bar-details p{
+    font-family: "Poppins", sans-serif;
+    font-size: 14px;
+}                                               
+#expart-area .progress-bar-details span{
+    font-family: "Poppins", sans-serif;
+    font-size: 14px;
+}
+#expart-area{
+    margin-bottom: 100px;
+}
+}
+/*  Expart-Area section End here*/
+/* My-service section start here*/
+@media(min-width: 320px) and (max-width: 991px){
+#my-service .heading{
+    text-align: left;
+}
+#my-service .heading h2{
+   font-family: "PT Sans", sans-serif;
+   font-size: 24px;
+   padding-bottom: 10px;
+}
+#my-service .heading p{
+    font-family: "Poppins", sans-serif;
+    font-size: 13px;
+    padding-bottom: 45px;
+}
+#my-service .service-cart{
+    display: flex;
+    gap: 16px;
+    padding: 24px 22px;
+} 
+#my-service .service-details h3{
+    font-family: "Poppins", sans-serif;
+    font-size: 15px;
+    padding-bottom: 9px;
+    text-align: left;
+}
+#my-service .service-details p{
+    font-family: "Poppins", sans-serif;
+    font-size: 13px;
+    text-align: left;
+}
+#my-service{
+    background-color: #FFF7D5;
+    padding: 34px 17px 40px;
+}
+}
+/* My-service section End*/
+/* Feed-back section start */
+@media(min-width: 320px) and (max-width: 991px){
+#feedback .heading h2{
+   font-family: "PT Sans", sans-serif;
+   font-size: 24px;
+   padding-bottom: 10px;
+}
+#feedback .heading p{
+    font-family: "Poppins", sans-serif;
+    font-size: 13px;
+    padding-bottom: 40px;
+}
+#feedback .feedback-image img{
+    padding-bottom: 20px;
+}
+#feedback .feedback-details p{
+    font-family: "Poppins", sans-serif;
+    font-size: 15px;
+    padding-bottom: 13px;
+}
+#feedback .feedback-details h3{
+    font-family: "Poppins", sans-serif;
+    font-size: 15px;
+    margin-left: 50px;
+}
+#feedback .feedback-details span{
+    font-family: "Poppins", sans-serif;
+    font-size: 12px;
+    margin-left: 50px;
+}
+}
+/* Feed-back section End */
+/* Blog section Start here*/
+@media(min-width: 320px) and (max-width: 991px){
+#blog h2{
+   font-family: "PT Sans", sans-serif;
+   font-size: 24px;
+   padding-bottom: 42px;
+   text-align: left;
+}
+#blog .blog-details h3{
+   font-family: "Poppins", sans-serif;
+   font-size: 13px;
+   padding-bottom: 27px;
+}
+#blog .calander p{
+   font-family: "Poppins", sans-serif;
+   font-size: 10px;
+   padding-bottom: 6px;
+}
+#blog .calander span{
+   font-family: "Poppins", sans-serif;
+   font-size: 10px;
+   padding: 0 11px 25px;
+}
+#blog .blog-details a{
+   font-family: "Poppins", sans-serif;
+   font-size: 12px;
+}
+#blog{
+    margin-bottom: 89px;
+}
+}
+/* Blog section End here*/
+ /* news-letter section start here*/
+@media(min-width: 320px) and (max-width: 991px){
+#news-letter .news-details h3{
+   font-family: "Poppins", sans-serif;
+   font-size: 12px; 
+}
+#news-letter .news-details h2{
+   font-family: "Poppins", sans-serif;
+   font-size: 20px;
+   padding: 5px 0;
+}
+#news-letter .news-details p{
+   font-family: "Poppins", sans-serif;
+   font-size: 14px;
+   padding-bottom: 40px;
+}
+#news-letter .news-form input{
+    width: 70%;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 10px 0 0 10px;
+}
+#news-letter .news-letter-banner{
+    background-image: linear-gradient(to right,#FFCC00,#FFF5CB);
+    padding: 32px 40px;
+    border-radius: 20px;
+}
+#news-letter .news-form button{
+    padding: 15px 8px;
+    border-radius: 0 10px 10px 0;
+    border: none;
+    background-color: #FF6565;
+    color: white;
+    font-family: "Poppins", sans-serif;
+    font-size: 12px;
+}
+}
+ /* news-letter section End here*/
+ /* Footer section start here*/
+ @media(min-width: 320px) and (max-width: 991px){
+footer{
+    background-color: #575757;
+    padding: 29px 17px;
+}
+footer .footer-logo{
+    margin-bottom: 17px;
+}
+footer .footer-details h2{
+   font-family: "Poppins", sans-serif;
+   font-size: 18px;
+   padding-bottom: 5px;
+}
+footer .footer-details p{
+   font-family: "Poppins", sans-serif;
+   font-size: 13px;
+}  
+footer .footer-button a{
+    font-family: "Poppins", sans-serif;
+    font-size: 10px;
+    padding: 8px 17px;
+    border-radius: 16px;
+    color: white;
+    margin-left: 0;
+}
+footer .footer-details{
+    margin-bottom: 31px;
+}
+footer .footer-button{
+    margin-bottom: 40px;
+}
+footer .call-me h3{
+   font-family: "Poppins", sans-serif;
+   font-size: 13px;
+   padding-bottom: 34px;
+}                                               
+footer .call-me p{
+   font-family: "Poppins", sans-serif;
+   font-size: 12px;
+}                                               
+footer .email-me h3{
+   font-family: "Poppins", sans-serif;
+   font-size: 13px;
+   padding-bottom: 34px;
+}                                               
+footer .email-me p{
+   font-family: "Poppins", sans-serif;
+   font-size: 12px;
+}
+footer .socail-media P{
+   font-family: "Poppins", sans-serif;
+   font-size: 12px;
+   padding-left: 0;
+} 
+}
+ /* Footer section End here*/
